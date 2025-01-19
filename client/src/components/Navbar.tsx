@@ -19,7 +19,7 @@ const CustomNavbar = () => {
   const menuItems = [
     { name: "Features", href: "#features" },
     { name: "Components", href: "#components" },
-    { name: "Documentation", href: "/docs" },
+    { name: "Documentation", href: "https://github.com/MelatoninJr/ObserverAI" },
     { name: "Examples", href: "#examples" },
     { name: "GitHub", href: "https://github.com/your-repo/ObserverAI" },
   ];

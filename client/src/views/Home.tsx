@@ -107,7 +107,7 @@ const LandingPage = () => {
                   View on GitHub
                 </Button>
                 <Button
-                  href="/docs"
+                  href="https://github.com/MelatoninJr/ObserverAI"
                   size="lg"
                   variant="bordered"
                   className="border-purple-500 text-purple-600 hover:bg-purple-50"

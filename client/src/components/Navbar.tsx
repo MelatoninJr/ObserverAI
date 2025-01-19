@@ -75,7 +75,7 @@ const CustomNavbar = () => {
         <NavbarItem className="hidden sm:flex">
           <Button 
             as={Link} 
-            href="/docs"
+            href="https://github.com/your-repo/ObserverAI"
             variant="bordered"
             className="text-gray-700 border-gray-300"
             startContent={<BookOpen className="w-4 h-4" />}

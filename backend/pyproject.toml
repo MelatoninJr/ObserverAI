@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "observer-ai"
+version = "0.1.0"
+description = "A framework for tracking and analyzing AI agent decision paths"
+authors = ["Your Name <your.email@example.com>"]
+packages = [{include = "observer"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.0.0"
+pandas = "^2.0.0"
+openai = "^1.0.0"
+python-dotenv = "^1.0.0"
+swarms = "0.3.0"
+swarm-models = "0.1.0"
+transformers = "4.35.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0.0"
+black = "^23.0.0"
+isort = "^5.0.0"
+mypy = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

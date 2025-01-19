@@ -97,7 +97,7 @@ const LandingPage = () => {
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in-delayed">
                 <Button
-                  href="https://github.com/your-repo/ObserverAI"
+                  href="https://github.com/MelatoninJr/ObserverAI"
                   size="lg"
                   className="bg-gradient-to-r from-blue-600 to-purple-600 text-white shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all"
                   startContent={

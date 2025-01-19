@@ -21,10 +21,9 @@ import {
   Shield,
   Gear,
 } from "@phosphor-icons/react";
-import Logo from '../assets/observerlogo-nb-blue.png'
 
 // Keeping your existing FloatingOrb component
-const FloatingOrb = ({ delay, duration, size, color, left, top }) => (
+const FloatingOrb = ({ delay, duration, size, color, left, top }: any) => (
   <div
     className={`absolute rounded-full blur-xl animate-float ${size} ${color}`}
     style={{

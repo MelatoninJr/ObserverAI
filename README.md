@@ -1,6 +1,6 @@
 ObserverAI 🔍🤖
 
-Follow us on Twitter for updates: [@ObserverAI](https://twitter.com/ObserverAI)
+Follow us on Twitter for updates: [@ObserverAI](https://twitter.com/ObserverAgent)
 
 ObserverAI is an advanced framework for tracking and analyzing AI agent decision paths. Designed to provide deep insights into AI behavior, ObserverAI equips developers and researchers with tools to understand, evaluate, and enhance the decision-making processes of AI agents.
 

@@ -636,7 +636,7 @@ const LandingPage = () => {
       </section>
 
       {/* Your existing styles remain the same */}
-      <style jsx>{`
+<style >{`
         @keyframes float {
           0%,
           100% {

@@ -75,7 +75,7 @@ const CustomNavbar = () => {
         <NavbarItem className="hidden sm:flex">
           <Button 
             as={Link} 
-            href="https://github.com/MelatoninJr/ObserverAI"
+            href="https://github.com/ObserverAgent/ObserverAI"
             variant="bordered"
             className="text-gray-700 border-gray-300"
             startContent={<BookOpen className="w-4 h-4" />}
@@ -86,7 +86,7 @@ const CustomNavbar = () => {
         <NavbarItem>
           <Button 
             as={Link}
-            href="https://github.com/MelatoninJr/ObserverAI"
+            href="https://github.com/ObserverAgent/ObserverAI"
             className="bg-gradient-to-r from-blue-600 to-purple-600 text-white font-medium"
             startContent={<GithubLogo className="w-4 h-4" />}
           >
